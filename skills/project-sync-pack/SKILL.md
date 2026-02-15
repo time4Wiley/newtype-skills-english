@@ -1,13 +1,6 @@
 ---
 name: project-sync-pack
-description: >
-  **Project Sync Pack for the XinHuaRen App project**: Reads the master panorama
-  markdown and regenerates all visual deliverables — PPTX presentation (PptxGenJS,
-  crimson+gold design system) and mobile-friendly PNG infographic (Pillow dual-font
-  renderer). Optionally runs dual-model quality review before generation.
-  MANDATORY TRIGGERS: sync pack, generate pptx, generate slides, generate png,
-  refresh deliverables, update presentation, update infographic, regenerate visuals,
-  同步三件套, 生成PPT, 生成演示文稿, 刷新全景, 重新生成
+description: Visual deliverables generator that reads master panorama markdown and regenerates PPTX presentation (PptxGenJS, crimson+gold design system) and mobile-friendly PNG infographic (Pillow dual-font renderer). Optionally runs dual-model quality review before generation.
 ---
 
 # Project Sync Pack

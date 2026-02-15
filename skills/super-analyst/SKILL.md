@@ -1,11 +1,6 @@
 ---
 name: super-analyst
 description: Systematic analysis skill with 12 frameworks (SWOT, Porter's Five Forces, First Principles, 5 Whys, Design Thinking, etc.) and research methodology. Use when user needs strategic analysis, competitive research, investment decisions, root cause diagnosis, or any complex analytical task. Automatically detects complexity level and selects appropriate frameworks.
-license: MIT
-metadata:
-  author: huangyihe
-  version: "1.0"
-  language: en
 ---
 
 # Super Analyst

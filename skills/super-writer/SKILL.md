@@ -1,11 +1,6 @@
 ---
 name: super-writer
 description: Content creation skill with 6 writing methodologies (W.R.I.T.E, AIDA, Storytelling, Content Writing Process, Content Creation Techniques, High-Value Content Strategies). Use when user needs to write blog posts, marketing copy, brand stories, social media content, sales emails, or any creative writing task. Supports style extraction for mimicking reference content.
-license: MIT
-metadata:
-  author: huangyihe
-  version: "1.0"
-  language: en
 ---
 
 # Super Writer

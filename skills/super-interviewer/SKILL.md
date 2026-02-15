@@ -1,11 +1,6 @@
 ---
 name: super-interviewer
 description: Dialogue and interviewing skill with Socratic method, 5 Whys, open/closed questioning techniques, and 4-phase conversation structure. Use when user needs brainstorming facilitation, requirement gathering, deep exploration of ideas, challenging assumptions, or structured interview-style dialogue.
-license: MIT
-metadata:
-  author: huangyihe
-  version: "1.0"
-  language: en
 ---
 
 # Super Interviewer

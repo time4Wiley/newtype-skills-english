@@ -1,11 +1,6 @@
 ---
 name: super-fact-checker
 description: Systematic fact-checking skill with claim extraction, priority matrix, source credibility hierarchy, and verification methodology. Use when user needs to verify claims, check data accuracy, validate sources, review content for factual correctness, or annotate articles with verification status.
-license: MIT
-metadata:
-  author: huangyihe
-  version: "1.0"
-  language: en
 ---
 
 # Super Fact-Checker

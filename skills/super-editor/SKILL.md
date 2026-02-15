@@ -1,11 +1,6 @@
 ---
 name: super-editor
 description: 4-layer editing methodology (structure, paragraph, sentence, word) for polishing drafts and improving readability. Use when user needs to edit, revise, or polish written content. Provides systematic editing from macro structure down to word-level precision, with annotated change reports and justifications.
-license: MIT
-metadata:
-  author: huangyihe
-  version: "1.0"
-  language: en
 ---
 
 # Super Editor

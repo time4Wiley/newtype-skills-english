@@ -1,0 +1,29 @@
+{
+  "name": "newtype-skills-english",
+  "owner": {
+    "name": "huangyihe",
+    "url": "https://newtype.pro/"
+  },
+  "metadata": {
+    "description": "AI prompt skills for analysis, writing, fact-checking, editing, and interviewing. Methodology-driven prompts with 12 analysis frameworks, 6 writing methodologies, and systematic verification workflows. English version.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "newtype-skills-english",
+      "description": "Collection of methodology-driven AI prompt skills including Super Analyst (12 analysis frameworks), Super Writer (6 writing methodologies), Super Fact-Checker (systematic verification), Super Editor (4-layer editing), Super Interviewer (Socratic dialogue techniques), Dual-Model Analyze (GPT-5.2 + Gemini 3 Pro parallel analysis), Meeting Digest (transcript processor), and Project Sync Pack (visual deliverables generator). All skills are in English.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/super-analyst",
+        "./skills/super-writer",
+        "./skills/super-fact-checker",
+        "./skills/super-editor",
+        "./skills/super-interviewer",
+        "./skills/dual-model-analyze",
+        "./skills/meeting-digest",
+        "./skills/project-sync-pack"
+      ]
+    }
+  ]
+}

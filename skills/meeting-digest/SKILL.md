@@ -1,14 +1,6 @@
 ---
 name: meeting-digest
-description: >
-  **Meeting Digest Processor for the XinHuaRen App project**: Reads a new meeting
-  transcript (.docx, .txt, or pasted text), extracts decisions/todos/insights/team
-  changes, diffs against the existing master panorama markdown, and produces an
-  updated MD with clear annotations. Optionally runs dual-model analysis (GPT-5.2
-  + Gemini 3 Pro) for deeper insight extraction and cross-validation.
-  MANDATORY TRIGGERS: meeting notes, meeting transcript, discussion notes, sync notes,
-  update the panorama, update the master doc, new discussion, latest meeting,
-  any Chinese like: 会议纪要, 会议记录, 最新讨论, 更新全景梳理, 消化会议
+description: Meeting transcript processor that extracts decisions, todos, insights, and team changes from transcripts (.docx, .txt, or pasted text). Diffs against existing panorama markdown and produces updated MD with clear annotations. Optionally runs dual-model analysis (GPT-5.2 + Gemini 3 Pro) for deeper insight extraction and cross-validation.
 ---
 
 # Meeting Digest Processor
